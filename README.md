@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adamo
 - 👀 I’m interested in Languages & Computers
-- 🌱 I’m currently learning PHP, Js, SQL
+- 🌱 I’m currently learning HTML, CSS, PHP, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Discord @PurelyAdamo
 - 😄 Pronouns: He/Him
